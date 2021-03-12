@@ -1,0 +1,10 @@
+= Strumienie
+
+. Przydatne linki:
+.. https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Collection.html[Collection]
+.. https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Map.html[Map]
+
+. Zadania:
+.. link:src/main/java/com/github/lukaszprokop/firsttask/Main.java[zadanie nr1]
+.. link:src/main/java/com/github/lukaszprokop/secondtask/StudentEvaluation.java[zadanie nr2]
+.. link:src/main/java/com/github/lukaszprokop/thirdtask/GamersDatabase.java[zadanie nr3]
